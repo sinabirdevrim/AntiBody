@@ -1,2 +1,2 @@
-include ':app', ':AntibodyLib'
+include ':app', ':antibody-lib'
 rootProject.name='AntiBody'
